@@ -1,0 +1,19 @@
+{
+  "name": "soitgoes-subscribe",
+  "version": "1.0.0",
+  "description": "SoItGoes Subscribe Frontend",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/moskeyombus/soitgoes-subscribe.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/moskeyombus/soitgoes-subscribe/issues"
+  },
+  "homepage": "https://github.com/moskeyombus/soitgoes-subscribe"
+}

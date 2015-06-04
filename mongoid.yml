@@ -1,0 +1,6 @@
+development:
+  sessions:
+    default:
+      database: soitgoes-subscribe-dev
+      hosts:
+        - localhost:27017
